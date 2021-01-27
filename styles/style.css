@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  color: #333;
+  background: #fffcf4;
+}
+
+.main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 5vw;
+  /* background: pink; */
+}
+
+.main h1 {
+  text-align: center;
+}
+
+.main__img {
+  max-width: 200px;
+  width: 20vw;
+  float: right;
+  border: #333 1px solid;
+  border-radius: 5px;
+}
+
+.main code {
+  white-space: pre;
+}
