@@ -38,4 +38,3 @@
 	* БНТУ, ФИТР, 2009-2014
 	* Курсы [IT-Academy](https://www.it-academy.by/course/front-end-developer/fd1-razrabotka-veb-saytov-s-ispolzovaniem-html-css-i-javascript/)
 	* English. Pre-intermediate. Сейчас работаю в Голландской фирме и постоянно общаюсь на английском. Читаю техническую литературу, переписываюсь. Разговорным английским нужно заниматься. Пока сосредоточился на хард скиллах.
-	
