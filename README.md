@@ -1,1 +1,0 @@
-https://matveyprupas.github.io/rsschool-cv/cv
